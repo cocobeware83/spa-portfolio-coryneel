@@ -43,9 +43,9 @@ function Project () {
     return(
         <section>
             <h2> Some of My Projects</h2>
-            <div className='d-flex flex-wrap justify-content-center   ' style={{width: "80%", margin: "auto"}}>
+            <div className='d-flex flex-wrap justify-content-center' style={{width: "80%", margin: "auto"}}>
                 {projects.map(project => (
-                        <div className="card mx-1 bg-secondary border border-secondary" style={{width: "18rem"}}>
+                        <div className="card mx-1 bg-primary mb-2 ml-2 mr-2 mt-2" style={{width: "18rem"}}>
                             <div className="card-body">
                                 <h5 className="card-title text-light">{project.title}</h5>
                             </div>
