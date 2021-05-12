@@ -21,6 +21,7 @@ function App() {
           setTabSelected={setTabSelected}
         ></Header>
       </div>
+      
       <main className="mw-100">
         {(() => {
           switch(tabSelected){
@@ -30,6 +31,7 @@ function App() {
             default: return (<About />)
           }
         })()}
+        
       </main>
       <Footer></Footer>
     </div>
