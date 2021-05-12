@@ -9,7 +9,7 @@ function Header (props) {
     return(
         <header data-testid="header" className="mb-auto">
             <div>
-                <h1 className='float-md-start mb-0'>Hi My Name is Cory</h1>
+                <h1 className='float-md-start mb-0'>Cory Neel</h1>
                 <Nav
                 tabSelected={tabSelected}
                 setTabSelected={setTabSelected}
