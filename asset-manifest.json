@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/spa-portfolio-coryneel/static/css/main.04e94cae.chunk.css",
+    "main.js": "/spa-portfolio-coryneel/static/js/main.135a8d3d.chunk.js",
+    "main.js.map": "/spa-portfolio-coryneel/static/js/main.135a8d3d.chunk.js.map",
+    "runtime-main.js": "/spa-portfolio-coryneel/static/js/runtime-main.ef3cb969.js",
+    "runtime-main.js.map": "/spa-portfolio-coryneel/static/js/runtime-main.ef3cb969.js.map",
+    "static/css/2.800be05e.chunk.css": "/spa-portfolio-coryneel/static/css/2.800be05e.chunk.css",
+    "static/js/2.1aac7082.chunk.js": "/spa-portfolio-coryneel/static/js/2.1aac7082.chunk.js",
+    "static/js/2.1aac7082.chunk.js.map": "/spa-portfolio-coryneel/static/js/2.1aac7082.chunk.js.map",
+    "static/js/3.4ea4d1b0.chunk.js": "/spa-portfolio-coryneel/static/js/3.4ea4d1b0.chunk.js",
+    "static/js/3.4ea4d1b0.chunk.js.map": "/spa-portfolio-coryneel/static/js/3.4ea4d1b0.chunk.js.map",
+    "index.html": "/spa-portfolio-coryneel/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/spa-portfolio-coryneel/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.04e94cae.chunk.css.map": "/spa-portfolio-coryneel/static/css/main.04e94cae.chunk.css.map",
+    "static/js/2.1aac7082.chunk.js.LICENSE.txt": "/spa-portfolio-coryneel/static/js/2.1aac7082.chunk.js.LICENSE.txt",
+    "static/media/cory-neel.940bee66.pdf": "/spa-portfolio-coryneel/static/media/cory-neel.940bee66.pdf",
+    "static/media/profilepicture.6a5981f5.jpg": "/spa-portfolio-coryneel/static/media/profilepicture.6a5981f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef3cb969.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.1aac7082.chunk.js",
+    "static/css/main.04e94cae.chunk.css",
+    "static/js/main.135a8d3d.chunk.js"
+  ]
+}
