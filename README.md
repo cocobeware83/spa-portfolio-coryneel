@@ -29,6 +29,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Contact Me
 ***
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)   
+[![Ask Anything !](https://img.shields.io/badge/Ask%20Us-Anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)   
 [GITHUB PROFILE](https://github.com/cocobeware83)  
 [EMAIL ME](mailto:corycneel@gmail.com)  

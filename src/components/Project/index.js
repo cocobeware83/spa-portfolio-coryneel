@@ -15,10 +15,10 @@ function Project () {
             code: "https://github.com/DragoonKite/eat-out-austin"
         },
         {
-            title: "Photo Port",
-            image: "photo-port.png",
-            page: "https://cocobeware83.github.io/photo-port/",
-            code: "https://github.com/cocobeware83/photo-port"
+            title: "Beer Me",
+            image: "beer-me.png",
+            page: "",
+            code: "https://github.com/blueink38/beer-me"
         },
         {
             title: "Pizza Hunt",
